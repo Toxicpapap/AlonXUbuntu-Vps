@@ -10,9 +10,8 @@ Don't use this vps for :
 * Any activity that places a burden on our servers, where that burden is disproportionate to the benefits provided to users (for example, don't use Actions as a content delivery network or as part of a serverless application, but a low benefit Action could be ok if it’s also low burden)
 * Any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used.
 
-## How to use it?
-
-<i>**[Watch Video Tutorial...](https://youtu.be/ntlpn-WD68Y)**</i>
+<h4> HOW TO USE: </h4>    
+<p><a href="https://youtu.be/ntlpn-WD68Y"><img src="https://img.shields.io/badge/TG%20Tutorial%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 ## How To Run ?
 
