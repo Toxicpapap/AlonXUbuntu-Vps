@@ -32,7 +32,7 @@ Variables Name | Uses | Notes
 * Click `Run Workflow` button on the left of `This workflow has a workflow_dispatch event trigger` line.
 * Wait until a few minutes.
 * Go to `https://dashboard.ngrok.com/endpoints/status` and check if theres a one online tunnel running.
-* Copy the IP and connect through any software that supports SSH sonnection.
+* Copy the IP and connect through any software that supports SSH connection.
 * Fill in those login info, within username from `USERNAME`and password from `USER PASSWORD` you typed.
 
 # License
