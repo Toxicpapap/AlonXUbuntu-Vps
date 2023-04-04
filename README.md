@@ -37,7 +37,7 @@ Variables Name | Uses | Notes
 
 # License
 
-        Copyright (c) 2022 #Team_Venom
+        Copyright (c) 2022 #Team_Alone
 
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
